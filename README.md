@@ -7,3 +7,5 @@ Analyzing and predicting housing prices using attributes or features such as squ
 The dataset contains house sale prices for King County, which includes Seattle.
 
 performed in Jupyter Notebook
+
+https://www.linkedin.com/in/maxim-movchan
